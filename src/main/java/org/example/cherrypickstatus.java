@@ -16,4 +16,8 @@ public class cherrypickstatus {
         System.out.println("Wanted to cherry pick");
     }
 
+    public void newcommit(){
+        System.out.println("new commit");
+    }
+
 }
