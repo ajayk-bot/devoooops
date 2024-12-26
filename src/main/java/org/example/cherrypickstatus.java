@@ -6,6 +6,8 @@ public class cherrypickstatus {
         System.out.println("Wanted to cherry pick");
     }
 
-
+    public void checkStatus2(){
+        System.out.println("Wanted to cherry pick");
+    }
 
 }
